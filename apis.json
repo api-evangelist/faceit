@@ -1,0 +1,44 @@
+{
+    "name": "FACEIT",
+    "description": "FACEIT is the leading competitive gaming platform for online multiplayer games",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28208-developers-faceit-com.jpg",
+    "tags": [
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/faceit\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "FACEIT",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28208-developers-faceit-com.jpg",
+            "humanURL": "https:\/\/developers.faceit.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/faceit-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/faceit"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/FACEIT"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/developers.faceit.com"
+        }
+    ]
+}
